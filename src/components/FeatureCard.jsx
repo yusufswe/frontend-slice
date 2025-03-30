@@ -1,4 +1,3 @@
-// Updated FeatureCard component
 const FeatureCard = ({ icon, title, description, image }) => {
   return (
     <div className="bg-slate-100 rounded-xl p-4 md:p-6 shadow-md hover:shadow-lg transition-shadow space-y-3 md:space-y-5 h-full">

@@ -1,6 +1,7 @@
 import Feature from "./sections/Feature";
 import Header from "./sections/Header";
 import Hero from "./sections/Hero";
+import Stats from "./sections/Stats";
 import Tutorial from "./sections/Tutorial";
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <Hero />
       <Feature />
       <Tutorial />
+      <Stats />
     </div>
   );
 }
